@@ -2,7 +2,7 @@
 author = "Gyuho Lee"
 title = "Joined Amazon Web Services, Inc."
 date = "2018-08-06"
-description = "Software Developer Engineer: etcd, Kubernetes, and EKS"
+description = "Senior Software Developer Engineer: etcd, Kubernetes, and EKS"
 tags = [
     "etcd",
     "Kubernetes",
